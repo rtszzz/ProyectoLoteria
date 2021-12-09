@@ -32,7 +32,7 @@ namespace ProyectoLoteria
         {
             int r = 0, c = 0;
 
-            int[] cartas = new int[34];
+            int[] cartas = new int[54];
 
 
             for (int i = 0; i < cartas.Length; i++)
