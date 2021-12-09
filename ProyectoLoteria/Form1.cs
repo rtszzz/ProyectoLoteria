@@ -85,7 +85,7 @@ namespace ProyectoLoteria
             if (carta.Count() == 54)
             {
                 bandera = true;
-                MessageBox.Show("son todas las cartas", "AVIZO", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("son todas las cartas", "AVISO", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
 
             while (!bandera)
