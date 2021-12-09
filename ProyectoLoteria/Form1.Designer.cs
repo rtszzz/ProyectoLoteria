@@ -1,5 +1,5 @@
 ﻿
-namespace Loteria
+namespace ProyectoLoteria
 {
     partial class Form1
     {
